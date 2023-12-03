@@ -1,0 +1,9 @@
+import random choice
+ask user how many times he wants to roll the dice
+use randome choice to chose a sumber betweed 1 - 6
+add that random number to a list
+repeat step 2 3 till list len == user input
+make a copy of the list
+use the copy to get the values of each dice roll in the list 
+replace tht value with the value before on the original list
+repeat 7 8 for all values
